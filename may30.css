@@ -1,0 +1,36 @@
+.first{
+    text-align: right;
+    margin: 80px;
+    padding: 40px;
+}
+
+.first:hover{
+    background-color: lavender;
+}
+
+.second{
+    text-align: center;
+    margin: 80px;
+    padding: 40px;
+}
+
+.third{
+    text-align: left;
+    margin: 80px;
+    padding: 40px;
+}
+
+h1{
+    color: rgb(224, 135, 100);
+    background-color: rgb(70, 26, 5);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 5px grey;
+}
+h1:hover {
+    color: white;
+}
+
+.narrow{
+    margin: 100px;
+}
